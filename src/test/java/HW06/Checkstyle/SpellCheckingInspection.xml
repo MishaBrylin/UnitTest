@@ -1,0 +1,41 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/HW06/ListAverageComparator.java</file>
+  <line>22</line>
+  <module>Junit_seminar</module>
+  <package>HW06</package>
+  <entry_point TYPE="method" FQNAME="HW06.ListAverageComparator java.lang.String averageСomparison(HW06.ListAverageComparator listAV)" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'Сomparison'</description>
+  <highlighted_element>Сomparison</highlighted_element>
+  <language>JAVA</language>
+  <offset>33</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/HW06/ListAverageComparator.java</file>
+  <line>23</line>
+  <module>Junit_seminar</module>
+  <package>HW06</package>
+  <entry_point TYPE="method" FQNAME="HW06.ListAverageComparator java.lang.String averageСomparison(HW06.ListAverageComparator listAV)" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'avarage'</description>
+  <highlighted_element>avarage</highlighted_element>
+  <language>JAVA</language>
+  <offset>12</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/HW06/ListAverageComparator.java</file>
+  <line>24</line>
+  <module>Junit_seminar</module>
+  <package>HW06</package>
+  <entry_point TYPE="method" FQNAME="HW06.ListAverageComparator java.lang.String averageСomparison(HW06.ListAverageComparator listAV)" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'avarage'</description>
+  <highlighted_element>avarage</highlighted_element>
+  <language>JAVA</language>
+  <offset>12</offset>
+  <length>7</length>
+</problem>
+</problems>

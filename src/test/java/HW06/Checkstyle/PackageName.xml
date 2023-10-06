@@ -1,0 +1,11 @@
+<problems>
+<problem>
+  <package>HW06</package>
+  <entry_point TYPE="package" FQNAME="HW06" />
+  <problem_class id="PackageName" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Package naming convention</problem_class>
+  <hints />
+  <description>Package name &lt;code&gt;HW06&lt;/code&gt; part should not start with an uppercase letter</description>
+  <highlighted_element />
+  <language />
+</problem>
+</problems>

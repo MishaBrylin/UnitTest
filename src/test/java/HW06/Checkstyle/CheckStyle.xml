@@ -1,0 +1,158 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/HW06/ListAverageComparator.java</file>
+  <line>1</line>
+  <module>Junit_seminar</module>
+  <package>HW06</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/main/java/HW06/ListAverageComparator.java" />
+  <problem_class id="CheckStyle" severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Checkstyle real-time scan</problem_class>
+  <description>Checkstyle: Пропущен файл package-info.java.</description>
+  <highlighted_element>package</highlighted_element>
+  <language>JAVA</language>
+  <offset>0</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/HW06/ListAverageComparator.java</file>
+  <line>1</line>
+  <module>Junit_seminar</module>
+  <package>HW06</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/main/java/HW06/ListAverageComparator.java" />
+  <problem_class id="CheckStyle" severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Checkstyle real-time scan</problem_class>
+  <description>Checkstyle: Имя 'HW06' должно соответствовать шаблону '^[a-z]+(\.[a-zA-Z_]\w*)*$'.</description>
+  <highlighted_element>HW06</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/HW06/ListAverageComparator.java</file>
+  <line>9</line>
+  <module>Junit_seminar</module>
+  <package>HW06</package>
+  <entry_point TYPE="class" FQNAME="HW06.ListAverageComparator" />
+  <problem_class id="CheckStyle" severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Checkstyle real-time scan</problem_class>
+  <description>Checkstyle: Длина строки больше 80 (всего 88).</description>
+  <highlighted_element />
+  <language>JAVA</language>
+  <offset>4</offset>
+  <length>0</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/HW06/ListAverageComparator.java</file>
+  <line>6</line>
+  <module>Junit_seminar</module>
+  <package>HW06</package>
+  <entry_point TYPE="field" FQNAME="HW06.ListAverageComparator list1" />
+  <problem_class id="CheckStyle" severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Checkstyle real-time scan</problem_class>
+  <description>Checkstyle: Пропущен Javadoc комментарий.</description>
+  <highlighted_element>private</highlighted_element>
+  <language>JAVA</language>
+  <offset>4</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/HW06/ListAverageComparator.java</file>
+  <line>7</line>
+  <module>Junit_seminar</module>
+  <package>HW06</package>
+  <entry_point TYPE="field" FQNAME="HW06.ListAverageComparator list2" />
+  <problem_class id="CheckStyle" severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Checkstyle real-time scan</problem_class>
+  <description>Checkstyle: Пропущен Javadoc комментарий.</description>
+  <highlighted_element>private</highlighted_element>
+  <language>JAVA</language>
+  <offset>4</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/HW06/ListAverageComparator.java</file>
+  <line>9</line>
+  <module>Junit_seminar</module>
+  <package>HW06</package>
+  <entry_point TYPE="method" FQNAME="HW06.ListAverageComparator ListAverageComparator(java.util.List&lt;java.lang.Integer&gt; list1, java.util.List&lt;java.lang.Integer&gt; list2)" />
+  <problem_class id="CheckStyle" severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Checkstyle real-time scan</problem_class>
+  <description>Checkstyle: Пропущен Javadoc комментарий.</description>
+  <highlighted_element>public</highlighted_element>
+  <language>JAVA</language>
+  <offset>4</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/HW06/ListAverageComparator.java</file>
+  <line>9</line>
+  <module>Junit_seminar</module>
+  <package>HW06</package>
+  <entry_point TYPE="method" FQNAME="HW06.ListAverageComparator ListAverageComparator(java.util.List&lt;java.lang.Integer&gt; list1, java.util.List&lt;java.lang.Integer&gt; list2)" />
+  <problem_class id="CheckStyle" severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Checkstyle real-time scan</problem_class>
+  <description>Checkstyle: 'list1' скрывает поле.</description>
+  <highlighted_element>list1</highlighted_element>
+  <language>JAVA</language>
+  <offset>53</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/HW06/ListAverageComparator.java</file>
+  <line>9</line>
+  <module>Junit_seminar</module>
+  <package>HW06</package>
+  <entry_point TYPE="method" FQNAME="HW06.ListAverageComparator ListAverageComparator(java.util.List&lt;java.lang.Integer&gt; list1, java.util.List&lt;java.lang.Integer&gt; list2)" />
+  <problem_class id="CheckStyle" severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Checkstyle real-time scan</problem_class>
+  <description>Checkstyle: 'list2' скрывает поле.</description>
+  <highlighted_element>list2</highlighted_element>
+  <language>JAVA</language>
+  <offset>80</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/HW06/ListAverageComparator.java</file>
+  <line>14</line>
+  <module>Junit_seminar</module>
+  <package>HW06</package>
+  <entry_point TYPE="method" FQNAME="HW06.ListAverageComparator int getAverage(java.util.List&lt;java.lang.Integer&gt; list)" />
+  <problem_class id="CheckStyle" severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Checkstyle real-time scan</problem_class>
+  <description>Checkstyle: Параметр list должен быть final.</description>
+  <highlighted_element>List</highlighted_element>
+  <language>JAVA</language>
+  <offset>34</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/HW06/ListAverageComparator.java</file>
+  <line>22</line>
+  <module>Junit_seminar</module>
+  <package>HW06</package>
+  <entry_point TYPE="method" FQNAME="HW06.ListAverageComparator java.lang.String averageСomparison(HW06.ListAverageComparator listAV)" />
+  <problem_class id="CheckStyle" severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Checkstyle real-time scan</problem_class>
+  <description>Checkstyle: Пропущен Javadoc комментарий.</description>
+  <highlighted_element>public</highlighted_element>
+  <language>JAVA</language>
+  <offset>4</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/HW06/ListAverageComparator.java</file>
+  <line>22</line>
+  <module>Junit_seminar</module>
+  <package>HW06</package>
+  <entry_point TYPE="method" FQNAME="HW06.ListAverageComparator java.lang.String averageСomparison(HW06.ListAverageComparator listAV)" />
+  <problem_class id="CheckStyle" severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Checkstyle real-time scan</problem_class>
+  <description>Checkstyle: Имя 'averageСomparison' должно соответствовать шаблону '^[a-z][a-zA-Z0-9]*$'.</description>
+  <highlighted_element>averageСomparison</highlighted_element>
+  <language>JAVA</language>
+  <offset>26</offset>
+  <length>17</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/HW06/ListAverageComparator.java</file>
+  <line>22</line>
+  <module>Junit_seminar</module>
+  <package>HW06</package>
+  <entry_point TYPE="method" FQNAME="HW06.ListAverageComparator java.lang.String averageСomparison(HW06.ListAverageComparator listAV)" />
+  <problem_class id="CheckStyle" severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Checkstyle real-time scan</problem_class>
+  <description>Checkstyle: Параметр listAV должен быть final.</description>
+  <highlighted_element>ListAverageComparator</highlighted_element>
+  <language>JAVA</language>
+  <offset>44</offset>
+  <length>21</length>
+</problem>
+</problems>
